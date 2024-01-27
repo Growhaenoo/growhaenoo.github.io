@@ -17,3 +17,7 @@ Raw 코딩을 할 수도 있는데, 버블도 써볼까 고민중입니다.
 
 <summary>첫번째토글</summary>
   
+<details>
+  <summary>첫번째토글</summary>
+  <!-- 내용 -->
+</details>
