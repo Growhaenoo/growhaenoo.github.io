@@ -12,5 +12,5 @@ Raw 코딩을 할 수도 있는데, 버블도 써볼까 고민중입니다.
 (240128)
 - 버블에서 로그인 기능을 만들고 싶어서 Plugin 검색창에 login 검색하고, 최상단인 SSO 로그인플러그인을 설치했다.
 - 간단한 적용 후 Public Key 라는것을 넣어야 되는 것 같길래 다시 검색
-- [SSO Public Key 생성이슈](/https://support.google.com/cloudidentity/answer/6342198?hl=ko) 여기서 Java 의 Keytool 을 써보려구..
+- [SSO Public Key 생성이슈](https://support.google.com/cloudidentity/answer/6342198?hl=ko) 여기서 Java 의 Keytool 을 써보려구..
 - Java 부터 알아봐야겠네?
