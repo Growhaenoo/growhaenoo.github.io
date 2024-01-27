@@ -8,3 +8,6 @@
 2. 메모 가능한 기능 구현
 
 Raw 코딩을 할 수도 있는데, 버블도 써볼까 고민중입니다.
+
+링크 생성
+[SSO Public Key 생성이슈](./https://support.google.com/cloudidentity/answer/6342198?hl=ko) 여기서 Java 의 Keytool 을 써보려구..
