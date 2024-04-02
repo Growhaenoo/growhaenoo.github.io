@@ -19,10 +19,12 @@ Raw 코딩을 할 수도 있는데, 버블도 써볼까 고민중입니다.
       <li>Java 부터 알아봐야겠네?</li>
     </ul>
   </div>
+</details>
+
+</details>
  <summary>240402, 파이썬답게 코딩하기 리딩</summary>
   <div markdown="2">
     <ul>
       <li>이히</li>
     </ul>
   </div>
-</details>
