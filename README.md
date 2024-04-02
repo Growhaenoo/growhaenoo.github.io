@@ -11,7 +11,7 @@ Raw 코딩을 할 수도 있는데, 버블도 써볼까 고민중입니다.
 
 <details>
   <summary>240128, 계정생성 스타트</summary>
-  <div markdown="1">
+  <div>
     <ul>
       <li>버블에서 로그인 기능을 만들고 싶어서 Plugin 검색창에 login 검색하고, 최상단인 SSO 로그인플러그인을 설치했다.</li>
       <li>간단한 적용 후 Public Key 라는것을 넣어야 되는 것 같길래 다시 검색</li>
@@ -21,10 +21,11 @@ Raw 코딩을 할 수도 있는데, 버블도 써볼까 고민중입니다.
   </div>
 </details>
 
-</details>
+<details>
  <summary>240402, 파이썬답게 코딩하기 리딩</summary>
-  <div markdown="2">
+  <div>
     <ul>
       <li>이히</li>
     </ul>
   </div>
+</details>
